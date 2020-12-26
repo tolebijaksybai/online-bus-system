@@ -1,5 +1,11 @@
 ### Технология: PHP7, MySQL, HTML, CSS, JS(JQuery), Bootstrap 3
 
+![1](https://user-images.githubusercontent.com/52714747/103147847-1693b980-4783-11eb-8e12-d8d1292a3ee9.png)
+
+![2](https://user-images.githubusercontent.com/52714747/103147848-1693b980-4783-11eb-9446-f3aa22f4d9ec.png)
+
+![3](https://user-images.githubusercontent.com/52714747/103147849-172c5000-4783-11eb-8035-123e5760c16f.png)
+
 ![4](https://user-images.githubusercontent.com/52714747/103147824-0e3b7e80-4783-11eb-8f38-3f4cea8dec3a.png)
 
 ![5](https://user-images.githubusercontent.com/52714747/103147825-0f6cab80-4783-11eb-8ef1-acc641c38479.png)
@@ -38,9 +44,4 @@
 
 ![22](https://user-images.githubusercontent.com/52714747/103147846-15fb2300-4783-11eb-92a5-4e2f29254108.png)
 
-![1](https://user-images.githubusercontent.com/52714747/103147847-1693b980-4783-11eb-8e12-d8d1292a3ee9.png)
-
-![2](https://user-images.githubusercontent.com/52714747/103147848-1693b980-4783-11eb-9446-f3aa22f4d9ec.png)
-
-![3](https://user-images.githubusercontent.com/52714747/103147849-172c5000-4783-11eb-8035-123e5760c16f.png)
 
